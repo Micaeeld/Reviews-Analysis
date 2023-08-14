@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Analysis and Forecast of Hotel Reviews 
 
 This notebook contains a brief analysis and prediction of hotel reviews using natural language processing techniques. The dataset used was obtained from Kaggle and consists of a sample of guest reviews of a hotel.
